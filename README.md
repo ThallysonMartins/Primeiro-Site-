@@ -39,3 +39,61 @@
         </div>
     </body>
 </html>
+
+
+# CSS
+
+
+body {
+	
+}
+
+#banner {
+	width: 100%;
+}
+
+.principal {
+ 	padding: 30px;
+ 	background: #CCCCCC
+}
+
+.titulo-principal{
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: red;
+}
+
+.intens {
+	font-style: italic;
+}
+
+.beneficios {
+	padding: 20px;
+	background: #FFFFFF
+} 
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%; 
+}
+
+.imagembeneficios {
+	width: 50%;
+}
